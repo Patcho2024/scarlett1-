@@ -1,0 +1,6 @@
+flask
+mitmproxy
+cryptography
+pyserial
+requests
+asyncio
